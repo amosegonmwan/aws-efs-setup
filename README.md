@@ -10,7 +10,7 @@ This project involves setting up an AWS Elastic File System (EFS) in a VPC with 
 - AWS CLI configured on your local machine.
 - Basic understanding of AWS services and networking.
 
-![Architecture Diagram](https://prod-files-secure.s3.us-west-2.amazonaws.com/51bef212-f896-4df7-8458-19d0cdc18e59/9ce98e63-a2d7-4e81-b9cc-572478dcab7b/Untitled.png)
+![image](https://github.com/user-attachments/assets/c95fdd8f-a14d-4e30-bf47-dd70f7173ab4)
 
 ## Steps
 
