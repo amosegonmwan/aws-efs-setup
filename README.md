@@ -82,6 +82,4 @@ This project involves setting up an AWS Elastic File System (EFS) in a VPC with 
     sudo umount ~/efs-mount
     ```
 
-## Conclusion
 
-By following these steps, you have successfully set up an AWS Elastic File System (EFS) and mounted it on two EC2 instances in different public subnets within the same VPC. This demonstrates the shared storage capability of EFS, where data created on one instance is immediately available to other instances. The data resides on the EFS, ensuring persistence and high availability.
